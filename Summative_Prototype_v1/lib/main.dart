@@ -6,6 +6,9 @@ import 'package:flutter_hooks/flutter_hooks.dart';
 
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:html_character_entities/html_character_entities.dart';
+import 'package:riverpod_quiz/LandingPage.dart';
+// ignore: unused_import
+import 'package:riverpod_quiz/mainpage.dart';
 
 import 'controllers/quiz/quiz_controller.dart';
 import 'controllers/quiz/quiz_state.dart';
@@ -23,14 +26,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return ProviderScope(
       child: MaterialApp(
-        title: 'Flutter Riverpod Quiz',
+        title: 'Quiz Time App',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.yellow,
           bottomSheetTheme:
               const BottomSheetThemeData(backgroundColor: Colors.transparent),
         ),
-        home: QuizScreen(),
+        home: HomePage(),
       ),
     );
   }
