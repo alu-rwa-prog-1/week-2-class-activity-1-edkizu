@@ -31,7 +31,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-
 # Authors:
 1) Zubeir  Msemo
 2) Joachim Wambua
@@ -42,3 +41,35 @@ samples, guidance on mobile development, and a full API reference.
 - [Flutter main Website](https://flutter.dev/)
 - [Dart main Website](https://dart.dev/)
 - [StackOverflow](https://stackoverflow.com/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
