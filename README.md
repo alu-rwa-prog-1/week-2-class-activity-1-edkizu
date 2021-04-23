@@ -1,4 +1,4 @@
-# NAME : QUIZ TIME APP![Image of QuizTimeApp](https://github.com/alu-rwa-prog-1/week-2-class-activity-1-edkizu/blob/main/Summative_Prototype_v1/assets/images/QuizTimeLogo.png)
+# NAME : QUIZ TIME APP ![Image of QuizTimeApp](https://github.com/alu-rwa-prog-1/week-2-class-activity-1-edkizu/blob/main/Summative_Prototype_v1/assets/images/QuizTimeLogo.png)
 
 # PURPOSE OF THE APP
 
