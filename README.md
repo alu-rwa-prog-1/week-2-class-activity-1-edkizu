@@ -21,6 +21,15 @@ We thought the App would be a great source of entertainment and competition  for
 - run a flutter run 
 - Enjoy the ride !!
 
+
+# LINKS AND RESOURCES
+- [Flutter main Website](https://flutter.dev/)
+- [Dart main Website](https://dart.dev/)
+- [StackOverflow](https://stackoverflow.com/) 
+- [OpenTrivia Website](https://opentdb.com/)
+- [Project Tracker](https://docs.google.com/spreadsheets/d/1LJ24gvGXkMCDAbZhBQFv4BBJ69LnbO9oWt9Y3iJ8b_s/edit?usp=sharing)
+- [Projects Files and recording](https://drive.google.com/drive/folders/1YYd06cmCtM17dQ-jQfCWGO61qaX-iRAv?usp=sharing)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
@@ -38,10 +47,9 @@ samples, guidance on mobile development, and a full API reference.
 2) Joachim Wambua
 3) Edward Obala
 
+# LICENSE ;
+- OpenTrivia
+- MIT 
 
-# LINKS AND RESOURCES
-- [Flutter main Website](https://flutter.dev/)
-- [Dart main Website](https://dart.dev/)
-- [StackOverflow](https://stackoverflow.com/) 
-- [OpenTrivia Website] (https://opentdb.com/)
+
 
