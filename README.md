@@ -30,10 +30,7 @@ We thought the App would be a great source of entertainment and competition  for
 - [Project Tracker](https://docs.google.com/spreadsheets/d/1LJ24gvGXkMCDAbZhBQFv4BBJ69LnbO9oWt9Y3iJ8b_s/edit?usp=sharing)
 - [Projects Files and recording](https://drive.google.com/drive/folders/1YYd06cmCtM17dQ-jQfCWGO61qaX-iRAv?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+OUR SRS DOCUMENT
 - [SRS Document for Development](https://docs.google.com/document/d/1JCpmXgG9H44kK4JbwlKu41B3VVnStJDR3ns6lO8Fh98/edit?usp=sharing)
 
 For help getting started with Flutter, view our
