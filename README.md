@@ -1,10 +1,10 @@
-# NAME : QUIZ TIME APP ![Image of QuizTimeApp](https://github.com/alu-rwa-prog-1/week-2-class-activity-1-edkizu/blob/main/Summative_Prototype_v1/assets/images/QuizTimeLogo.png)
+# NAME : QUIZ TIME APP ![Image of QuizTimeApp](https://github.com/alu-rwa-prog-1/week-2-class-activity-1-edkizu/blob/main/QuizTime%20FInal/images/quiztimelogo.png)
 
 # PURPOSE OF THE APP
 
 We thought the App would be a great source of entertainment and competition  for the main reason that we have participated in a lot of Kahoot challenges in school so we challenged ourselves to make something similar for us to see how well we could do it.
 
-![Screenshoot](https://github.com/alu-rwa-prog-1/week-2-class-activity-1-edkizu/blob/main/Summative_Prototype_v1/assets/images/Screenshot%202021-03-03%20at%2022.51.42.png)
+![Screenshoot](https://github.com/alu-rwa-prog-1/week-2-class-activity-1-edkizu/blob/main/QuizTime%20FInal/images/Screenshot%202021-04-27%20at%2009.12.57.png)
 
 
 # THE BASIC FUNCTIONALITY OF THE APP 
